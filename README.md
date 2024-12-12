@@ -1,6 +1,6 @@
 ### ASCII Mirrors
 
-Reads a text file and mirrors the text on both sides.
+Reads a text file and mirrors the text on both sides. Main package in ASCII Mirror/task/src
 
 Ex. input:
 ```
